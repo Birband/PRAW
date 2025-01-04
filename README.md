@@ -1,0 +1,1 @@
+## Projekty z Programowania Równoległego na architekturach wielordzeniowych
