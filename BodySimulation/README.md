@@ -3,6 +3,8 @@
 - OpenMP - dla zrównoleglonych implementacji przy użyciu wątków
 - g++ - kompilator
 
+- Plik z czcionką `.ttf`. Nazwę można zmienić ale standardowo jest `Arial.ttf`.
+
 ## Uruchamianie projektu
 Projekt najpierw musi być skompilowany. W tym celu należy użyć kompilatora g++.
 ```
